@@ -1,9 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
-theme: just-the-docs
-remote_theme:     sighingnow/jekyll-gitbook
+title: Roͥboͣcͫo
+description: an development enthusiast's documentary blog
+#theme: just-the-docs
+remote_theme: sighingnow/jekyll-gitbook
 
 url: https://iroboco.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/iRoboco
