@@ -1,7 +1,6 @@
 title: Roͥboͣcͫo
 description: an development enthusiast's documentary blog
-#theme: just-the-docs
-remote_theme: sighingnow/jekyll-gitbook
+theme: just-the-docs
 
 url: https://iroboco.github.io
 
